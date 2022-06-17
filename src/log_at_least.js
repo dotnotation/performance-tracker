@@ -3,3 +3,4 @@ function logAtLeast5(n){
         console.log(i)
     }
 }
+//O(n)

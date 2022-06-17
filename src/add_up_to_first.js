@@ -5,3 +5,4 @@ function addUpToFirst(n){
     }
     return total
 }
+//O(n)

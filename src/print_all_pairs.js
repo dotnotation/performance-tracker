@@ -5,3 +5,4 @@ function printAllPairs(n) {
       }
     }
   }
+  //O(n²)

@@ -3,3 +3,5 @@ function logAtMost5(n){
         console.log(i)
     }
 }
+
+//O(1)

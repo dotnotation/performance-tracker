@@ -9,3 +9,4 @@ function countUpAndDown(n){
     }
     console.log("Back down. Bye!")
 }
+//O(n)
